@@ -4,6 +4,8 @@ This is the GitHub organization of [**KAS Lab**](https://kas-lab.github.io) (Kno
 
 The repositories include **research** results and **education** materials.
 
+The repositories related to our Metacontrol research can be found at the [**Metacontrol** GitHub organization](https://github.com/meta-control)
+
 
 # Contribution Guidelines
 
